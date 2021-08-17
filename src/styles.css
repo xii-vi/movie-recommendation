@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  background: #1e1e1e;
+}
+.navi {
+  background-color: #deb522;
+}
+.head {
+  padding: 1px 20px 20px 50px;
+  background: black;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
+.head ul {
+  padding: 20px;
+  cursor: pointer;
+  font-size: 18px;
+  display: inline;
+}
+.title {
+  letter-spacing: 0.5px;
+}
+.synopsis {
+  font-size: larger;
+}
+img {
+  padding: 30px 0 30px 0;
+  height: 350px;
+}
+
+.IMDB {
+  margin: 20px;
+}
