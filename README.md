@@ -1,2 +1,2 @@
 # movie-recommendation
-Created with CodeSandbox
+React app to show movie recommendation based on genre.
